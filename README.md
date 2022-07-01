@@ -12,3 +12,5 @@
     <img src="https://komarev.com/ghpvc/?username=xaxeric&color=e61245">
     <a href="https://liberapay.com/craccken/donate" target="_blank"><img alt="Donate using Liberapay" src="https://img.shields.io/liberapay/receives/Xaxeric.svg?logo=liberapay"></a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark) 
