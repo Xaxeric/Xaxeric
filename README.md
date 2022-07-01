@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+    <script src="https://tryhackme.com/badge/1195088"></script>
     <a href="https://tryhackme.com/p/Xaxeric" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Xaxeric.png" alt="TryHackMe"></a>
 </p>
 
