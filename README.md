@@ -11,7 +11,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=xaxeric&color=e61245">
     <a href="https://liberapay.com/craccken/donate" target="_blank"><img alt="Donate using Liberapay" src="https://img.shields.io/liberapay/receives/Xaxeric.svg?logo=liberapay"></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Xaxeric&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xaxeric&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 </p>
 
