@@ -13,12 +13,12 @@
     <a href="https://tryhackme.com/p/Xaxeric" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Xaxeric.png?1337" alt="TryHackMe"></a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xaxeric&show_icons=true&theme=github_dark&hide_border=true">
+<p align="justify">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Xaxeric&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Xaxeric&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xaxeric&show_icons=true&theme=github_dark&hide_border=true">
 </p>
 
 <p align="center">
