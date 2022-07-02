@@ -21,7 +21,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark">
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxeric&langs_count=8&theme=github_dark&layout=compact&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=Xaxeric&show_icons=true&theme=github_dark&hide_border=true">
 </p>
