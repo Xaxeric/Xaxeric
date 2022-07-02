@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxeric&langs_count=8&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxeric&langs_count=8&theme=github_dark&layout=compact">
 </p>
 
 ![](https://ripgvc.herokuapp.com/?username=xaxeric&color=e64f00&round)
