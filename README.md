@@ -3,6 +3,7 @@
     <a href="https://soundcloud.com/xaxeric" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
     <a href="https://github.com/Craccken/craccken-linux" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="CracckenLinux"></a>
     <a href="https://liberapay.com/Xaxeric" target="_blank"><img alt="Donate using Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
+    <a href="https://xaxeric.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
 </p>
 
 <p align="center">
