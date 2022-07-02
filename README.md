@@ -21,4 +21,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxeric&langs_count=8&theme=github_dark">
+</p>
+
 ![](https://ripgvc.herokuapp.com/?username=xaxeric&color=e64f00&round)
