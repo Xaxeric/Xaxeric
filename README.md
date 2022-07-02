@@ -16,3 +16,5 @@
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark">
 </p>
+
+![](https://ripgvc.herokuapp.com/?username=aiocat&color=e64f00&round)
