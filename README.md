@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a href="https://tryhackme.com/p/Xaxeric" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Xaxeric.png?1337" alt="TryHackMe"></a>
+    <a href="https://tryhackme.com/p/Xaxeric" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Xaxeric.png?0x5" alt="TryHackMe"></a>
 </p>
 
 <p align="center">
