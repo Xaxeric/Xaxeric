@@ -1,3 +1,5 @@
+<p align="center"> Powerlifter, UI/UX Designer, Master of the art automation scripting, Full-Stack Developer </p>
+
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xaxeric&theme=github_dark">
 </p>
